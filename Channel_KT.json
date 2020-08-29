@@ -1,0 +1,1836 @@
+[
+    {
+        "last update": "2020/07/12 12:24:37",
+        "total": 305
+    },
+    {
+        "KT Name": "NQQ",
+        "KTCh": 0,
+        "Source": "KT",
+        "ServiceId": "0"
+    },
+    {
+        "KT Name": "MBC Every1",
+        "KTCh": 1,
+        "Source": "KT",
+        "ServiceId": "1"
+    },
+    {
+        "KT Name": "K쇼핑",
+        "KTCh": 2,
+        "Source": "KT",
+        "ServiceId": "2"
+    },
+    {
+        "KT Name": "tvN",
+        "KTCh": 3,
+        "Source": "KT",
+        "ServiceId": "3"
+    },
+    {
+        "KT Name": "롯데홈쇼핑",
+        "KTCh": 4,
+        "Source": "KT",
+        "ServiceId": "4"
+    },
+    {
+        "KT Name": "SBS",
+        "KTCh": 5,
+        "Source": "KT",
+        "ServiceId": "5"
+    },
+    {
+        "KT Name": "CJ오쇼핑",
+        "KTCh": 6,
+        "Source": "KT",
+        "ServiceId": "6"
+    },
+    {
+        "KT Name": "KBS2",
+        "KTCh": 7,
+        "Source": "KT",
+        "ServiceId": "7"
+    },
+    {
+        "KT Name": "GS SHOP",
+        "KTCh": 8,
+        "Source": "KT",
+        "ServiceId": "8"
+    },
+    {
+        "KT Name": "KBS1",
+        "KTCh": 9,
+        "Source": "KT",
+        "ServiceId": "9"
+    },
+    {
+        "KT Name": "현대홈쇼핑",
+        "KTCh": 10,
+        "Source": "KT",
+        "ServiceId": "10"
+    },
+    {
+        "KT Name": "MBC",
+        "KTCh": 11,
+        "Source": "KT",
+        "ServiceId": "11"
+    },
+    {
+        "KT Name": "NS홈쇼핑",
+        "KTCh": 12,
+        "Source": "KT",
+        "ServiceId": "12"
+    },
+    {
+        "KT Name": "EBS",
+        "KTCh": 13,
+        "Source": "KT",
+        "ServiceId": "13"
+    },
+    {
+        "KT Name": "홈&쇼핑",
+        "KTCh": 14,
+        "Source": "KT",
+        "ServiceId": "14"
+    },
+    {
+        "KT Name": "JTBC",
+        "KTCh": 15,
+        "Source": "KT",
+        "ServiceId": "15"
+    },
+    {
+        "KT Name": "MBN",
+        "KTCh": 16,
+        "Source": "KT",
+        "ServiceId": "16"
+    },
+    {
+        "KT Name": "SK stoa",
+        "KTCh": 17,
+        "Source": "KT",
+        "ServiceId": "17"
+    },
+    {
+        "KT Name": "채널A",
+        "KTCh": 18,
+        "Source": "KT",
+        "ServiceId": "18"
+    },
+    {
+        "KT Name": "TV조선",
+        "KTCh": 19,
+        "Source": "KT",
+        "ServiceId": "19"
+    },
+    {
+        "KT Name": "신세계쇼핑",
+        "KTCh": 20,
+        "Source": "KT",
+        "ServiceId": "20"
+    },
+    {
+        "KT Name": "OCN",
+        "KTCh": 21,
+        "Source": "KT",
+        "ServiceId": "21"
+    },
+    {
+        "KT Name": "공영쇼핑",
+        "KTCh": 22,
+        "Source": "KT",
+        "ServiceId": "22"
+    },
+    {
+        "KT Name": "연합뉴스TV",
+        "KTCh": 23,
+        "Source": "KT",
+        "ServiceId": "23"
+    },
+    {
+        "KT Name": "YTN",
+        "KTCh": 24,
+        "Source": "KT",
+        "ServiceId": "24"
+    },
+    {
+        "KT Name": "SBS CNBC",
+        "KTCh": 25,
+        "Source": "KT",
+        "ServiceId": "25"
+    },
+    {
+        "KT Name": "OBS",
+        "KTCh": 26,
+        "Source": "KT",
+        "ServiceId": "26"
+    },
+    {
+        "KT Name": "Mnet",
+        "KTCh": 27,
+        "Source": "KT",
+        "ServiceId": "27"
+    },
+    {
+        "KT Name": "CJ오쇼핑플러스",
+        "KTCh": 28,
+        "Source": "KT",
+        "ServiceId": "28"
+    },
+    {
+        "KT Name": "OCN Movies",
+        "KTCh": 29,
+        "Source": "KT",
+        "ServiceId": "29"
+    },
+    {
+        "KT Name": "SKY",
+        "KTCh": 30,
+        "Source": "KT",
+        "ServiceId": "30"
+    },
+    {
+        "KT Name": "MBC Dramanet",
+        "KTCh": 31,
+        "Source": "KT",
+        "ServiceId": "31"
+    },
+    {
+        "KT Name": "XtvN",
+        "KTCh": 32,
+        "Source": "KT",
+        "ServiceId": "32"
+    },
+    {
+        "KT Name": "쇼핑엔티",
+        "KTCh": 33,
+        "Source": "KT",
+        "ServiceId": "33"
+    },
+    {
+        "KT Name": "올리브",
+        "KTCh": 34,
+        "Source": "KT",
+        "ServiceId": "34"
+    },
+    {
+        "KT Name": "KBS Drama",
+        "KTCh": 35,
+        "Source": "KT",
+        "ServiceId": "35"
+    },
+    {
+        "KT Name": "현대홈쇼핑+샵",
+        "KTCh": 36,
+        "Source": "KT",
+        "ServiceId": "36"
+    },
+    {
+        "KT Name": "SBS Plus",
+        "KTCh": 37,
+        "Source": "KT",
+        "ServiceId": "37"
+    },
+    {
+        "KT Name": "GS MY SHOP",
+        "KTCh": 38,
+        "Source": "KT",
+        "ServiceId": "38"
+    },
+    {
+        "KT Name": "JTBC2",
+        "KTCh": 39,
+        "Source": "KT",
+        "ServiceId": "39"
+    },
+    {
+        "KT Name": "W 쇼핑",
+        "KTCh": 40,
+        "Source": "KT",
+        "ServiceId": "40"
+    },
+    {
+        "KT Name": "KBS Joy",
+        "KTCh": 41,
+        "Source": "KT",
+        "ServiceId": "41"
+    },
+    {
+        "KT Name": "NS Shop+",
+        "KTCh": 42,
+        "Source": "KT",
+        "ServiceId": "42"
+    },
+    {
+        "KT Name": "SBS funE",
+        "KTCh": 43,
+        "Source": "KT",
+        "ServiceId": "43"
+    },
+    {
+        "KT Name": "롯데원티비",
+        "KTCh": 44,
+        "Source": "KT",
+        "ServiceId": "44"
+    },
+    {
+        "KT Name": "O tvn",
+        "KTCh": 45,
+        "Source": "KT",
+        "ServiceId": "45"
+    },
+    {
+        "KT Name": "드라마큐브",
+        "KTCh": 46,
+        "Source": "KT",
+        "ServiceId": "46"
+    },
+    {
+        "KT Name": "드라맥스",
+        "KTCh": 47,
+        "Source": "KT",
+        "ServiceId": "47"
+    },
+    {
+        "KT Name": "E채널",
+        "KTCh": 48,
+        "Source": "KT",
+        "ServiceId": "48"
+    },
+    {
+        "KT Name": "ONCE",
+        "KTCh": 49,
+        "Source": "KT",
+        "ServiceId": "49"
+    },
+    {
+        "KT Name": "SPOTV",
+        "KTCh": 51,
+        "Source": "KT",
+        "ServiceId": "51"
+    },
+    {
+        "KT Name": "SPOTV2",
+        "KTCh": 52,
+        "Source": "KT",
+        "ServiceId": "52"
+    },
+    {
+        "KT Name": "IB SPORTS",
+        "KTCh": 53,
+        "Source": "KT",
+        "ServiceId": "53"
+    },
+    {
+        "KT Name": "SkySports",
+        "KTCh": 54,
+        "Source": "KT",
+        "ServiceId": "54"
+    },
+    {
+        "KT Name": "The Golf Channel",
+        "KTCh": 55,
+        "Source": "KT",
+        "ServiceId": "55"
+    },
+    {
+        "KT Name": "JTBC Golf",
+        "KTCh": 56,
+        "Source": "KT",
+        "ServiceId": "56"
+    },
+    {
+        "KT Name": "SBSGOLF",
+        "KTCh": 57,
+        "Source": "KT",
+        "ServiceId": "57"
+    },
+    {
+        "KT Name": "SBS Sports",
+        "KTCh": 58,
+        "Source": "KT",
+        "ServiceId": "58"
+    },
+    {
+        "KT Name": "KBS N Sports",
+        "KTCh": 59,
+        "Source": "KT",
+        "ServiceId": "59"
+    },
+    {
+        "KT Name": "MBC SPORT+",
+        "KTCh": 60,
+        "Source": "KT",
+        "ServiceId": "60"
+    },
+    {
+        "KT Name": "JTBC3 GOLF&SPORTS",
+        "KTCh": 61,
+        "Source": "KT",
+        "ServiceId": "61"
+    },
+    {
+        "KT Name": "Eurosport",
+        "KTCh": 62,
+        "Source": "KT",
+        "ServiceId": "62"
+    },
+    {
+        "KT Name": "Star Sports",
+        "KTCh": 63,
+        "Source": "KT",
+        "ServiceId": "63"
+    },
+    {
+        "KT Name": "KTV",
+        "KTCh": 64,
+        "Source": "KT",
+        "ServiceId": "64"
+    },
+    {
+        "KT Name": "국회방송",
+        "KTCh": 65,
+        "Source": "KT",
+        "ServiceId": "65"
+    },
+    {
+        "KT Name": "캐치온1 유료",
+        "KTCh": 66,
+        "Source": "KT",
+        "ServiceId": "66"
+    },
+    {
+        "KT Name": "캐치온2 유료",
+        "KTCh": 67,
+        "Source": "KT",
+        "ServiceId": "67"
+    },
+    {
+        "KT Name": "CNTV",
+        "KTCh": 68,
+        "Source": "KT",
+        "ServiceId": "68"
+    },
+    {
+        "KT Name": "TVCHOSUN2",
+        "KTCh": 69,
+        "Source": "KT",
+        "ServiceId": "69"
+    },
+    {
+        "KT Name": "드라마H",
+        "KTCh": 70,
+        "Source": "KT",
+        "ServiceId": "70"
+    },
+    {
+        "KT Name": "FUN TV",
+        "KTCh": 71,
+        "Source": "KT",
+        "ServiceId": "71"
+    },
+    {
+        "KT Name": "CH.DIA",
+        "KTCh": 72,
+        "Source": "KT",
+        "ServiceId": "72"
+    },
+    {
+        "KT Name": "GTV",
+        "KTCh": 73,
+        "Source": "KT",
+        "ServiceId": "73"
+    },
+    {
+        "KT Name": "하이라이트TV",
+        "KTCh": 74,
+        "Source": "KT",
+        "ServiceId": "74"
+    },
+    {
+        "KT Name": "JTBC4",
+        "KTCh": 75,
+        "Source": "KT",
+        "ServiceId": "75"
+    },
+    {
+        "KT Name": "OCN Thrills",
+        "KTCh": 76,
+        "Source": "KT",
+        "ServiceId": "76"
+    },
+    {
+        "KT Name": "온스타일",
+        "KTCh": 77,
+        "Source": "KT",
+        "ServiceId": "77"
+    },
+    {
+        "KT Name": "Lifetime",
+        "KTCh": 78,
+        "Source": "KT",
+        "ServiceId": "78"
+    },
+    {
+        "KT Name": "Edge TV",
+        "KTCh": 79,
+        "Source": "KT",
+        "ServiceId": "79"
+    },
+    {
+        "KT Name": "MBC ON",
+        "KTCh": 80,
+        "Source": "KT",
+        "ServiceId": "80"
+    },
+    {
+        "KT Name": "HD OBS W",
+        "KTCh": 81,
+        "Source": "KT",
+        "ServiceId": "81"
+    },
+    {
+        "KT Name": "동아TV",
+        "KTCh": 82,
+        "Source": "KT",
+        "ServiceId": "82"
+    },
+    {
+        "KT Name": "KBS W",
+        "KTCh": 83,
+        "Source": "KT",
+        "ServiceId": "83"
+    },
+    {
+        "KT Name": "스마일티브이플러스",
+        "KTCh": 84,
+        "Source": "KT",
+        "ServiceId": "84"
+    },
+    {
+        "KT Name": "코미디TV",
+        "KTCh": 85,
+        "Source": "KT",
+        "ServiceId": "85"
+    },
+    {
+        "KT Name": "SkyTravel",
+        "KTCh": 86,
+        "Source": "KT",
+        "ServiceId": "86"
+    },
+    {
+        "KT Name": "K STAR",
+        "KTCh": 87,
+        "Source": "KT",
+        "ServiceId": "87"
+    },
+    {
+        "KT Name": "GMTV",
+        "KTCh": 88,
+        "Source": "KT",
+        "ServiceId": "88"
+    },
+    {
+        "KT Name": "Focus Movie",
+        "KTCh": 89,
+        "Source": "KT",
+        "ServiceId": "89"
+    },
+    {
+        "KT Name": "AsiaM",
+        "KTCh": 90,
+        "Source": "KT",
+        "ServiceId": "90"
+    },
+    {
+        "KT Name": "월드 클래식 무비",
+        "KTCh": 91,
+        "Source": "KT",
+        "ServiceId": "91"
+    },
+    {
+        "KT Name": "아이넷TV",
+        "KTCh": 92,
+        "Source": "KT",
+        "ServiceId": "92"
+    },
+    {
+        "KT Name": "가요TV",
+        "KTCh": 93,
+        "Source": "KT",
+        "ServiceId": "93"
+    },
+    {
+        "KT Name": "CMCTV",
+        "KTCh": 94,
+        "Source": "KT",
+        "ServiceId": "94"
+    },
+    {
+        "KT Name": "EBS2",
+        "KTCh": 95,
+        "Source": "KT",
+        "ServiceId": "95"
+    },
+    {
+        "KT Name": "디원",
+        "KTCh": 96,
+        "Source": "KT",
+        "ServiceId": "96"
+    },
+    {
+        "KT Name": "UXN UHD",
+        "KTCh": 97,
+        "Source": "KT",
+        "ServiceId": "97"
+    },
+    {
+        "KT Name": "채널A 플러스",
+        "KTCh": 98,
+        "Source": "KT",
+        "ServiceId": "98"
+    },
+    {
+        "KT Name": "MBN Plus",
+        "KTCh": 99,
+        "Source": "KT",
+        "ServiceId": "99"
+    },
+    {
+        "KT Name": "NBS한국농업방송",
+        "KTCh": 100,
+        "Source": "KT",
+        "ServiceId": "100"
+    },
+    {
+        "KT Name": "HITS",
+        "KTCh": 101,
+        "Source": "KT",
+        "ServiceId": "101"
+    },
+    {
+        "KT Name": "채널차이나",
+        "KTCh": 102,
+        "Source": "KT",
+        "ServiceId": "102"
+    },
+    {
+        "KT Name": "mplex",
+        "KTCh": 103,
+        "Source": "KT",
+        "ServiceId": "103"
+    },
+    {
+        "KT Name": "THE MOVIE",
+        "KTCh": 104,
+        "Source": "KT",
+        "ServiceId": "104"
+    },
+    {
+        "KT Name": "인디필름",
+        "KTCh": 105,
+        "Source": "KT",
+        "ServiceId": "105"
+    },
+    {
+        "KT Name": "스크린",
+        "KTCh": 106,
+        "Source": "KT",
+        "ServiceId": "106"
+    },
+    {
+        "KT Name": "FOX",
+        "KTCh": 107,
+        "Source": "KT",
+        "ServiceId": "107"
+    },
+    {
+        "KT Name": "채널 J",
+        "KTCh": 108,
+        "Source": "KT",
+        "ServiceId": "108"
+    },
+    {
+        "KT Name": "Asia UHD UHD",
+        "KTCh": 109,
+        "Source": "KT",
+        "ServiceId": "109"
+    },
+    {
+        "KT Name": "중화TV",
+        "KTCh": 110,
+        "Source": "KT",
+        "ServiceId": "110"
+    },
+    {
+        "KT Name": "AsiaN",
+        "KTCh": 111,
+        "Source": "KT",
+        "ServiceId": "111"
+    },
+    {
+        "KT Name": "CH.U",
+        "KTCh": 112,
+        "Source": "KT",
+        "ServiceId": "112"
+    },
+    {
+        "KT Name": "AXN",
+        "KTCh": 113,
+        "Source": "KT",
+        "ServiceId": "113"
+    },
+    {
+        "KT Name": "텔레노벨라",
+        "KTCh": 114,
+        "Source": "KT",
+        "ServiceId": "114"
+    },
+    {
+        "KT Name": "SBS F!L",
+        "KTCh": 115,
+        "Source": "KT",
+        "ServiceId": "115"
+    },
+    {
+        "KT Name": "채널W",
+        "KTCh": 116,
+        "Source": "KT",
+        "ServiceId": "116"
+    },
+    {
+        "KT Name": "에이플드라마",
+        "KTCh": 117,
+        "Source": "KT",
+        "ServiceId": "117"
+    },
+    {
+        "KT Name": "FTV",
+        "KTCh": 118,
+        "Source": "KT",
+        "ServiceId": "118"
+    },
+    {
+        "KT Name": "FISHING TV",
+        "KTCh": 119,
+        "Source": "KT",
+        "ServiceId": "119"
+    },
+    {
+        "KT Name": "바둑TV",
+        "KTCh": 120,
+        "Source": "KT",
+        "ServiceId": "120"
+    },
+    {
+        "KT Name": "K바둑",
+        "KTCh": 121,
+        "Source": "KT",
+        "ServiceId": "121"
+    },
+    {
+        "KT Name": "브레인TV",
+        "KTCh": 122,
+        "Source": "KT",
+        "ServiceId": "122"
+    },
+    {
+        "KT Name": "OGN",
+        "KTCh": 123,
+        "Source": "KT",
+        "ServiceId": "123"
+    },
+    {
+        "KT Name": "STATV",
+        "KTCh": 124,
+        "Source": "KT",
+        "ServiceId": "124"
+    },
+    {
+        "KT Name": "SPOTV Golf & Health",
+        "KTCh": 125,
+        "Source": "KT",
+        "ServiceId": "125"
+    },
+    {
+        "KT Name": "빌리어즈티비",
+        "KTCh": 126,
+        "Source": "KT",
+        "ServiceId": "126"
+    },
+    {
+        "KT Name": "마운틴TV",
+        "KTCh": 127,
+        "Source": "KT",
+        "ServiceId": "127"
+    },
+    {
+        "KT Name": "HGTV",
+        "KTCh": 128,
+        "Source": "KT",
+        "ServiceId": "128"
+    },
+    {
+        "KT Name": "Dog TV 유료",
+        "KTCh": 129,
+        "Source": "KT",
+        "ServiceId": "129"
+    },
+    {
+        "KT Name": "해피독티비 유료",
+        "KTCh": 130,
+        "Source": "KT",
+        "ServiceId": "130"
+    },
+    {
+        "KT Name": "STN SPORTS",
+        "KTCh": 131,
+        "Source": "KT",
+        "ServiceId": "131"
+    },
+    {
+        "KT Name": "생활체육TV",
+        "KTCh": 132,
+        "Source": "KT",
+        "ServiceId": "132"
+    },
+    {
+        "KT Name": "AcTV",
+        "KTCh": 133,
+        "Source": "KT",
+        "ServiceId": "133"
+    },
+    {
+        "KT Name": "SBS MTV",
+        "KTCh": 136,
+        "Source": "KT",
+        "ServiceId": "136"
+    },
+    {
+        "KT Name": "MBC M",
+        "KTCh": 137,
+        "Source": "KT",
+        "ServiceId": "137"
+    },
+    {
+        "KT Name": "STINGRAY CLASSICA",
+        "KTCh": 139,
+        "Source": "KT",
+        "ServiceId": "139"
+    },
+    {
+        "KT Name": "예술 TV아르떼",
+        "KTCh": 140,
+        "Source": "KT",
+        "ServiceId": "140"
+    },
+    {
+        "KT Name": "이벤트TV",
+        "KTCh": 150,
+        "Source": "KT",
+        "ServiceId": "150"
+    },
+    {
+        "KT Name": "YTN life",
+        "KTCh": 159,
+        "Source": "KT",
+        "ServiceId": "159"
+    },
+    {
+        "KT Name": "OUN",
+        "KTCh": 160,
+        "Source": "KT",
+        "ServiceId": "160"
+    },
+    {
+        "KT Name": "리얼TV",
+        "KTCh": 161,
+        "Source": "KT",
+        "ServiceId": "161"
+    },
+    {
+        "KT Name": "Now제주TV",
+        "KTCh": 162,
+        "Source": "KT",
+        "ServiceId": "162"
+    },
+    {
+        "KT Name": "9colors",
+        "KTCh": 163,
+        "Source": "KT",
+        "ServiceId": "163"
+    },
+    {
+        "KT Name": "MBC NET",
+        "KTCh": 164,
+        "Source": "KT",
+        "ServiceId": "164"
+    },
+    {
+        "KT Name": "위라이크",
+        "KTCh": 165,
+        "Source": "KT",
+        "ServiceId": "165"
+    },
+    {
+        "KT Name": "채널이엠",
+        "KTCh": 166,
+        "Source": "KT",
+        "ServiceId": "166"
+    },
+    {
+        "KT Name": "하비라이프",
+        "KTCh": 167,
+        "Source": "KT",
+        "ServiceId": "167"
+    },
+    {
+        "KT Name": "내셔널지오그래픽",
+        "KTCh": 168,
+        "Source": "KT",
+        "ServiceId": "168"
+    },
+    {
+        "KT Name": "History",
+        "KTCh": 169,
+        "Source": "KT",
+        "ServiceId": "169"
+    },
+    {
+        "KT Name": "Nat Geo Wild",
+        "KTCh": 170,
+        "Source": "KT",
+        "ServiceId": "170"
+    },
+    {
+        "KT Name": "Nat Geo People",
+        "KTCh": 171,
+        "Source": "KT",
+        "ServiceId": "171"
+    },
+    {
+        "KT Name": "BBC Earth",
+        "KTCh": 172,
+        "Source": "KT",
+        "ServiceId": "172"
+    },
+    {
+        "KT Name": "EXF Plus",
+        "KTCh": 173,
+        "Source": "KT",
+        "ServiceId": "173"
+    },
+    {
+        "KT Name": "Sky UHD UHD",
+        "KTCh": 174,
+        "Source": "KT",
+        "ServiceId": "174"
+    },
+    {
+        "KT Name": "YTN 사이언스",
+        "KTCh": 175,
+        "Source": "KT",
+        "ServiceId": "175"
+    },
+    {
+        "KT Name": "채널뷰",
+        "KTCh": 176,
+        "Source": "KT",
+        "ServiceId": "176"
+    },
+    {
+        "KT Name": "디스커버리채널",
+        "KTCh": 177,
+        "Source": "KT",
+        "ServiceId": "177"
+    },
+    {
+        "KT Name": "DSC Science",
+        "KTCh": 178,
+        "Source": "KT",
+        "ServiceId": "178"
+    },
+    {
+        "KT Name": "Animal Planet",
+        "KTCh": 179,
+        "Source": "KT",
+        "ServiceId": "179"
+    },
+    {
+        "KT Name": "한국경제TV",
+        "KTCh": 180,
+        "Source": "KT",
+        "ServiceId": "180"
+    },
+    {
+        "KT Name": "머니투데이방송",
+        "KTCh": 181,
+        "Source": "KT",
+        "ServiceId": "181"
+    },
+    {
+        "KT Name": "매일경제TV",
+        "KTCh": 182,
+        "Source": "KT",
+        "ServiceId": "182"
+    },
+    {
+        "KT Name": "이데일리TV",
+        "KTCh": 183,
+        "Source": "KT",
+        "ServiceId": "183"
+    },
+    {
+        "KT Name": "서울경제TV",
+        "KTCh": 184,
+        "Source": "KT",
+        "ServiceId": "184"
+    },
+    {
+        "KT Name": "토마토TV",
+        "KTCh": 185,
+        "Source": "KT",
+        "ServiceId": "185"
+    },
+    {
+        "KT Name": "팍스경제TV",
+        "KTCh": 186,
+        "Source": "KT",
+        "ServiceId": "186"
+    },
+    {
+        "KT Name": "다큐원",
+        "KTCh": 187,
+        "Source": "KT",
+        "ServiceId": "187"
+    },
+    {
+        "KT Name": "부동산토마토",
+        "KTCh": 188,
+        "Source": "KT",
+        "ServiceId": "188"
+    },
+    {
+        "KT Name": "CNN International",
+        "KTCh": 191,
+        "Source": "KT",
+        "ServiceId": "191"
+    },
+    {
+        "KT Name": "BBC WN",
+        "KTCh": 192,
+        "Source": "KT",
+        "ServiceId": "192"
+    },
+    {
+        "KT Name": "Euro News",
+        "KTCh": 193,
+        "Source": "KT",
+        "ServiceId": "193"
+    },
+    {
+        "KT Name": "CGTN",
+        "KTCh": 194,
+        "Source": "KT",
+        "ServiceId": "194"
+    },
+    {
+        "KT Name": "Fox News",
+        "KTCh": 195,
+        "Source": "KT",
+        "ServiceId": "195"
+    },
+    {
+        "KT Name": "Bloomberg",
+        "KTCh": 196,
+        "Source": "KT",
+        "ServiceId": "196"
+    },
+    {
+        "KT Name": "CNBC",
+        "KTCh": 197,
+        "Source": "KT",
+        "ServiceId": "197"
+    },
+    {
+        "KT Name": "TV5MONDE",
+        "KTCh": 198,
+        "Source": "KT",
+        "ServiceId": "198"
+    },
+    {
+        "KT Name": "NHK WP",
+        "KTCh": 199,
+        "Source": "KT",
+        "ServiceId": "199"
+    },
+    {
+        "KT Name": "아리랑 TV",
+        "KTCh": 200,
+        "Source": "KT",
+        "ServiceId": "200"
+    },
+    {
+        "KT Name": "viki 유료",
+        "KTCh": 204,
+        "Source": "KT",
+        "ServiceId": "204"
+    },
+    {
+        "KT Name": "미드나잇 유료",
+        "KTCh": 205,
+        "Source": "KT",
+        "ServiceId": "205"
+    },
+    {
+        "KT Name": "Playboy TV 유료",
+        "KTCh": 206,
+        "Source": "KT",
+        "ServiceId": "206"
+    },
+    {
+        "KT Name": "허니TV 유료",
+        "KTCh": 207,
+        "Source": "KT",
+        "ServiceId": "207"
+    },
+    {
+        "KT Name": "핑크하우스TV 유료",
+        "KTCh": 208,
+        "Source": "KT",
+        "ServiceId": "208"
+    },
+    {
+        "KT Name": "DesireTV 유료",
+        "KTCh": 209,
+        "Source": "KT",
+        "ServiceId": "209"
+    },
+    {
+        "KT Name": "비너스 유료",
+        "KTCh": 210,
+        "Source": "KT",
+        "ServiceId": "210"
+    },
+    {
+        "KT Name": "SPOTV ON 유료",
+        "KTCh": 211,
+        "Source": "KT",
+        "ServiceId": "211"
+    },
+    {
+        "KT Name": "SPOTV ON 2 유료",
+        "KTCh": 212,
+        "Source": "KT",
+        "ServiceId": "212"
+    },
+    {
+        "KT Name": "법률방송",
+        "KTCh": 213,
+        "Source": "KT",
+        "ServiceId": "213"
+    },
+    {
+        "KT Name": "tbsTV",
+        "KTCh": 214,
+        "Source": "KT",
+        "ServiceId": "214"
+    },
+    {
+        "KT Name": "채널i",
+        "KTCh": 215,
+        "Source": "KT",
+        "ServiceId": "215"
+    },
+    {
+        "KT Name": "다문화티브이",
+        "KTCh": 216,
+        "Source": "KT",
+        "ServiceId": "216"
+    },
+    {
+        "KT Name": "육아방송",
+        "KTCh": 217,
+        "Source": "KT",
+        "ServiceId": "217"
+    },
+    {
+        "KT Name": "소비자TV",
+        "KTCh": 218,
+        "Source": "KT",
+        "ServiceId": "218"
+    },
+    {
+        "KT Name": "복지TV",
+        "KTCh": 219,
+        "Source": "KT",
+        "ServiceId": "219"
+    },
+    {
+        "KT Name": "쿠키건강TV",
+        "KTCh": 220,
+        "Source": "KT",
+        "ServiceId": "220"
+    },
+    {
+        "KT Name": "K-NET TV",
+        "KTCh": 221,
+        "Source": "KT",
+        "ServiceId": "221"
+    },
+    {
+        "KT Name": "시니어TV",
+        "KTCh": 222,
+        "Source": "KT",
+        "ServiceId": "222"
+    },
+    {
+        "KT Name": "HQ+",
+        "KTCh": 223,
+        "Source": "KT",
+        "ServiceId": "223"
+    },
+    {
+        "KT Name": "JJC지방자치TV",
+        "KTCh": 224,
+        "Source": "KT",
+        "ServiceId": "224"
+    },
+    {
+        "KT Name": "TRENDY",
+        "KTCh": 226,
+        "Source": "KT",
+        "ServiceId": "226"
+    },
+    {
+        "KT Name": "UMAX UHD",
+        "KTCh": 227,
+        "Source": "KT",
+        "ServiceId": "227"
+    },
+    {
+        "KT Name": "UHDDreamTV UHD",
+        "KTCh": 228,
+        "Source": "KT",
+        "ServiceId": "228"
+    },
+    {
+        "KT Name": "SBS FiL UHD UHD",
+        "KTCh": 229,
+        "Source": "KT",
+        "ServiceId": "229"
+    },
+    {
+        "KT Name": "가톨릭평화방송",
+        "KTCh": 231,
+        "Source": "KT",
+        "ServiceId": "231"
+    },
+    {
+        "KT Name": "BBS불교방송",
+        "KTCh": 232,
+        "Source": "KT",
+        "ServiceId": "232"
+    },
+    {
+        "KT Name": "BTN불교TV",
+        "KTCh": 233,
+        "Source": "KT",
+        "ServiceId": "233"
+    },
+    {
+        "KT Name": "Good TV",
+        "KTCh": 234,
+        "Source": "KT",
+        "ServiceId": "234"
+    },
+    {
+        "KT Name": "C Channel",
+        "KTCh": 235,
+        "Source": "KT",
+        "ServiceId": "235"
+    },
+    {
+        "KT Name": "CTS기독교TV",
+        "KTCh": 236,
+        "Source": "KT",
+        "ServiceId": "236"
+    },
+    {
+        "KT Name": "CGNTV",
+        "KTCh": 237,
+        "Source": "KT",
+        "ServiceId": "237"
+    },
+    {
+        "KT Name": "CBS",
+        "KTCh": 238,
+        "Source": "KT",
+        "ServiceId": "238"
+    },
+    {
+        "KT Name": "원음방송",
+        "KTCh": 239,
+        "Source": "KT",
+        "ServiceId": "239"
+    },
+    {
+        "KT Name": "국악방송",
+        "KTCh": 251,
+        "Source": "KT",
+        "ServiceId": "251"
+    },
+    {
+        "KT Name": "한국직업방송",
+        "KTCh": 252,
+        "Source": "KT",
+        "ServiceId": "252"
+    },
+    {
+        "KT Name": "폴라리스TV",
+        "KTCh": 253,
+        "Source": "KT",
+        "ServiceId": "253"
+    },
+    {
+        "KT Name": "메디컬TV",
+        "KTCh": 254,
+        "Source": "KT",
+        "ServiceId": "254"
+    },
+    {
+        "KT Name": "소상공인방송",
+        "KTCh": 255,
+        "Source": "KT",
+        "ServiceId": "255"
+    },
+    {
+        "KT Name": "DW-TV Asia+",
+        "KTCh": 257,
+        "Source": "KT",
+        "ServiceId": "257"
+    },
+    {
+        "KT Name": "ABC Australia",
+        "KTCh": 258,
+        "Source": "KT",
+        "ServiceId": "258"
+    },
+    {
+        "KT Name": "한국승마방송",
+        "KTCh": 259,
+        "Source": "KT",
+        "ServiceId": "259"
+    },
+    {
+        "KT Name": "국방TV",
+        "KTCh": 260,
+        "Source": "KT",
+        "ServiceId": "260"
+    },
+    {
+        "KT Name": "STB상생방송",
+        "KTCh": 261,
+        "Source": "KT",
+        "ServiceId": "261"
+    },
+    {
+        "KT Name": "COOKTV",
+        "KTCh": 263,
+        "Source": "KT",
+        "ServiceId": "263"
+    },
+    {
+        "KT Name": "스크린골프존",
+        "KTCh": 264,
+        "Source": "KT",
+        "ServiceId": "264"
+    },
+    {
+        "KT Name": "SBS-AfreecaTV",
+        "KTCh": 265,
+        "Source": "KT",
+        "ServiceId": "265"
+    },
+    {
+        "KT Name": "실버아이TV",
+        "KTCh": 266,
+        "Source": "KT",
+        "ServiceId": "266"
+    },
+    {
+        "KT Name": "채널숨",
+        "KTCh": 267,
+        "Source": "KT",
+        "ServiceId": "267"
+    },
+    {
+        "KT Name": "차TV",
+        "KTCh": 268,
+        "Source": "KT",
+        "ServiceId": "268"
+    },
+    {
+        "KT Name": "브릿지TV",
+        "KTCh": 270,
+        "Source": "KT",
+        "ServiceId": "270"
+    },
+    {
+        "KT Name": "헬스메디tv",
+        "KTCh": 271,
+        "Source": "KT",
+        "ServiceId": "271"
+    },
+    {
+        "KT Name": "한국선거방송",
+        "KTCh": 273,
+        "Source": "KT",
+        "ServiceId": "273"
+    },
+    {
+        "KT Name": "리빙TV",
+        "KTCh": 276,
+        "Source": "KT",
+        "ServiceId": "276"
+    },
+    {
+        "KT Name": "사회안전방송",
+        "KTCh": 278,
+        "Source": "KT",
+        "ServiceId": "278"
+    },
+    {
+        "KT Name": "CCTV4",
+        "KTCh": 280,
+        "Source": "KT",
+        "ServiceId": "280"
+    },
+    {
+        "KT Name": "KBSN Life",
+        "KTCh": 281,
+        "Source": "KT",
+        "ServiceId": "281"
+    },
+    {
+        "KT Name": "내외경제TV",
+        "KTCh": 285,
+        "Source": "KT",
+        "ServiceId": "285"
+    },
+    {
+        "KT Name": "Dog & Mom",
+        "KTCh": 609,
+        "Source": "KT",
+        "ServiceId": "609"
+    },
+    {
+        "KT Name": "최신인기가요",
+        "KTCh": 610,
+        "Source": "KT",
+        "ServiceId": "610"
+    },
+    {
+        "KT Name": "최신 발라드 가요",
+        "KTCh": 611,
+        "Source": "KT",
+        "ServiceId": "611"
+    },
+    {
+        "KT Name": "최신 가요 댄스",
+        "KTCh": 612,
+        "Source": "KT",
+        "ServiceId": "612"
+    },
+    {
+        "KT Name": "최신 가요 차트",
+        "KTCh": 613,
+        "Source": "KT",
+        "ServiceId": "613"
+    },
+    {
+        "KT Name": "트로트가요무대",
+        "KTCh": 614,
+        "Source": "KT",
+        "ServiceId": "614"
+    },
+    {
+        "KT Name": "최신 트로트 히트",
+        "KTCh": 615,
+        "Source": "KT",
+        "ServiceId": "615"
+    },
+    {
+        "KT Name": "응답하라 8090",
+        "KTCh": 616,
+        "Source": "KT",
+        "ServiceId": "616"
+    },
+    {
+        "KT Name": "주부 애창 가요",
+        "KTCh": 617,
+        "Source": "KT",
+        "ServiceId": "617"
+    },
+    {
+        "KT Name": "최신 히트 팝스",
+        "KTCh": 618,
+        "Source": "KT",
+        "ServiceId": "618"
+    },
+    {
+        "KT Name": "한국인이 사랑한 팝송",
+        "KTCh": 619,
+        "Source": "KT",
+        "ServiceId": "619"
+    },
+    {
+        "KT Name": "다문화 음악 1",
+        "KTCh": 620,
+        "Source": "KT",
+        "ServiceId": "620"
+    },
+    {
+        "KT Name": "다문화 음악 2",
+        "KTCh": 621,
+        "Source": "KT",
+        "ServiceId": "621"
+    },
+    {
+        "KT Name": "Black Music",
+        "KTCh": 622,
+        "Source": "KT",
+        "ServiceId": "622"
+    },
+    {
+        "KT Name": "Rock Festival",
+        "KTCh": 623,
+        "Source": "KT",
+        "ServiceId": "623"
+    },
+    {
+        "KT Name": "All That Jazz",
+        "KTCh": 624,
+        "Source": "KT",
+        "ServiceId": "624"
+    },
+    {
+        "KT Name": "홈클래식",
+        "KTCh": 625,
+        "Source": "KT",
+        "ServiceId": "625"
+    },
+    {
+        "KT Name": "클래식 산책",
+        "KTCh": 626,
+        "Source": "KT",
+        "ServiceId": "626"
+    },
+    {
+        "KT Name": "당신을 위한 발라드",
+        "KTCh": 627,
+        "Source": "KT",
+        "ServiceId": "627"
+    },
+    {
+        "KT Name": "2000년대 인기가요",
+        "KTCh": 628,
+        "Source": "KT",
+        "ServiceId": "628"
+    },
+    {
+        "KT Name": "TV속 화제음악",
+        "KTCh": 629,
+        "Source": "KT",
+        "ServiceId": "629"
+    },
+    {
+        "KT Name": "OST 천국",
+        "KTCh": 630,
+        "Source": "KT",
+        "ServiceId": "630"
+    },
+    {
+        "KT Name": "엄마랑 EQ동요",
+        "KTCh": 631,
+        "Source": "KT",
+        "ServiceId": "631"
+    },
+    {
+        "KT Name": "Rainy Day",
+        "KTCh": 632,
+        "Source": "KT",
+        "ServiceId": "632"
+    },
+    {
+        "KT Name": "레이디스초이스",
+        "KTCh": 633,
+        "Source": "KT",
+        "ServiceId": "633"
+    },
+    {
+        "KT Name": "K-pop Allstars",
+        "KTCh": 634,
+        "Source": "KT",
+        "ServiceId": "634"
+    },
+    {
+        "KT Name": "러브 발라드",
+        "KTCh": 635,
+        "Source": "KT",
+        "ServiceId": "635"
+    },
+    {
+        "KT Name": "커피타임",
+        "KTCh": 636,
+        "Source": "KT",
+        "ServiceId": "636"
+    },
+    {
+        "KT Name": "클럽뮤직",
+        "KTCh": 637,
+        "Source": "KT",
+        "ServiceId": "637"
+    },
+    {
+        "KT Name": "파워스테이션",
+        "KTCh": 638,
+        "Source": "KT",
+        "ServiceId": "638"
+    },
+    {
+        "KT Name": "Cool & Hot",
+        "KTCh": 639,
+        "Source": "KT",
+        "ServiceId": "639"
+    },
+    {
+        "KT Name": "채널 키즈랜드",
+        "KTCh": 960,
+        "Source": "KT",
+        "ServiceId": "960"
+    },
+    {
+        "KT Name": "ZooMoo",
+        "KTCh": 961,
+        "Source": "KT",
+        "ServiceId": "961"
+    },
+    {
+        "KT Name": "잉글리시 젬 유료",
+        "KTCh": 964,
+        "Source": "KT",
+        "ServiceId": "964"
+    },
+    {
+        "KT Name": "신기한나라TV 유료",
+        "KTCh": 965,
+        "Source": "KT",
+        "ServiceId": "965"
+    },
+    {
+        "KT Name": "키즈톡톡플러스 유료",
+        "KTCh": 966,
+        "Source": "KT",
+        "ServiceId": "966"
+    },
+    {
+        "KT Name": "대교베이비TV",
+        "KTCh": 967,
+        "Source": "KT",
+        "ServiceId": "967"
+    },
+    {
+        "KT Name": "Miao Mi",
+        "KTCh": 968,
+        "Source": "KT",
+        "ServiceId": "968"
+    },
+    {
+        "KT Name": "다빈치러닝",
+        "KTCh": 969,
+        "Source": "KT",
+        "ServiceId": "969"
+    },
+    {
+        "KT Name": "edu TV",
+        "KTCh": 970,
+        "Source": "KT",
+        "ServiceId": "970"
+    },
+    {
+        "KT Name": "EBS PLUS2",
+        "KTCh": 971,
+        "Source": "KT",
+        "ServiceId": "971"
+    },
+    {
+        "KT Name": "EBS PLUS1",
+        "KTCh": 972,
+        "Source": "KT",
+        "ServiceId": "972"
+    },
+    {
+        "KT Name": "EBS English",
+        "KTCh": 973,
+        "Source": "KT",
+        "ServiceId": "973"
+    },
+    {
+        "KT Name": "플레이런TV",
+        "KTCh": 974,
+        "Source": "KT",
+        "ServiceId": "974"
+    },
+    {
+        "KT Name": "JEI EnglishTV",
+        "KTCh": 975,
+        "Source": "KT",
+        "ServiceId": "975"
+    },
+    {
+        "KT Name": "뽀요TV",
+        "KTCh": 976,
+        "Source": "KT",
+        "ServiceId": "976"
+    },
+    {
+        "KT Name": "Cbeebies",
+        "KTCh": 977,
+        "Source": "KT",
+        "ServiceId": "977"
+    },
+    {
+        "KT Name": "디즈니주니어",
+        "KTCh": 978,
+        "Source": "KT",
+        "ServiceId": "978"
+    },
+    {
+        "KT Name": "글로벌A",
+        "KTCh": 979,
+        "Source": "KT",
+        "ServiceId": "979"
+    },
+    {
+        "KT Name": "브라보키즈",
+        "KTCh": 980,
+        "Source": "KT",
+        "ServiceId": "980"
+    },
+    {
+        "KT Name": "대교상상kids",
+        "KTCh": 981,
+        "Source": "KT",
+        "ServiceId": "981"
+    },
+    {
+        "KT Name": "Baby TV",
+        "KTCh": 982,
+        "Source": "KT",
+        "ServiceId": "982"
+    },
+    {
+        "KT Name": "EBS KIDS",
+        "KTCh": 983,
+        "Source": "KT",
+        "ServiceId": "983"
+    },
+    {
+        "KT Name": "KBS Kids",
+        "KTCh": 984,
+        "Source": "KT",
+        "ServiceId": "984"
+    },
+    {
+        "KT Name": "캐리TV",
+        "KTCh": 985,
+        "Source": "KT",
+        "ServiceId": "985"
+    },
+    {
+        "KT Name": "JEI 재능TV",
+        "KTCh": 986,
+        "Source": "KT",
+        "ServiceId": "986"
+    },
+    {
+        "KT Name": "대교 어린이TV",
+        "KTCh": 987,
+        "Source": "KT",
+        "ServiceId": "987"
+    },
+    {
+        "KT Name": "핑크퐁채널",
+        "KTCh": 988,
+        "Source": "KT",
+        "ServiceId": "988"
+    },
+    {
+        "KT Name": "부메랑",
+        "KTCh": 989,
+        "Source": "KT",
+        "ServiceId": "989"
+    },
+    {
+        "KT Name": "애니플러스",
+        "KTCh": 990,
+        "Source": "KT",
+        "ServiceId": "990"
+    },
+    {
+        "KT Name": "카툰네트워크",
+        "KTCh": 991,
+        "Source": "KT",
+        "ServiceId": "991"
+    },
+    {
+        "KT Name": "니켈로디언",
+        "KTCh": 992,
+        "Source": "KT",
+        "ServiceId": "992"
+    },
+    {
+        "KT Name": "애니박스",
+        "KTCh": 993,
+        "Source": "KT",
+        "ServiceId": "993"
+    },
+    {
+        "KT Name": "애니원",
+        "KTCh": 994,
+        "Source": "KT",
+        "ServiceId": "994"
+    },
+    {
+        "KT Name": "ANIMAX",
+        "KTCh": 995,
+        "Source": "KT",
+        "ServiceId": "995"
+    },
+    {
+        "KT Name": "Tooniverse",
+        "KTCh": 996,
+        "Source": "KT",
+        "ServiceId": "996"
+    },
+    {
+        "KT Name": "Dream Works Channel",
+        "KTCh": 997,
+        "Source": "KT",
+        "ServiceId": "997"
+    },
+    {
+        "KT Name": "Disney Channel",
+        "KTCh": 998,
+        "Source": "KT",
+        "ServiceId": "998"
+    },
+    {
+        "KT Name": "Channel olleh tv",
+        "KTCh": 999,
+        "Source": "KT",
+        "ServiceId": "999"
+    }
+]

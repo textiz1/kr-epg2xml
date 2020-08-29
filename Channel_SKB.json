@@ -1,0 +1,1602 @@
+[
+    {
+        "last update": "2020/07/04 02:10:09",
+        "total": 266
+    },
+    {
+        "SKB Name": "SBS",
+        "SKBCh": 5,
+        "Source": "SKB",
+        "ServiceId": "14"
+    },
+    {
+        "SKB Name": "KBS2",
+        "SKBCh": 7,
+        "Source": "SKB",
+        "ServiceId": "12"
+    },
+    {
+        "SKB Name": "KBS1",
+        "SKBCh": 9,
+        "Source": "SKB",
+        "ServiceId": "11"
+    },
+    {
+        "SKB Name": "MBC",
+        "SKBCh": 11,
+        "Source": "SKB",
+        "ServiceId": "13"
+    },
+    {
+        "SKB Name": "EBS",
+        "SKBCh": 13,
+        "Source": "SKB",
+        "ServiceId": "15"
+    },
+    {
+        "SKB Name": "OBS",
+        "SKBCh": 20,
+        "Source": "SKB",
+        "ServiceId": "70"
+    },
+    {
+        "SKB Name": "EBS2",
+        "SKBCh": 95,
+        "Source": "SKB",
+        "ServiceId": "63"
+    },
+    {
+        "SKB Name": "JTBC",
+        "SKBCh": 15,
+        "Source": "SKB",
+        "ServiceId": "240"
+    },
+    {
+        "SKB Name": "MBN",
+        "SKBCh": 16,
+        "Source": "SKB",
+        "ServiceId": "241"
+    },
+    {
+        "SKB Name": "채널A",
+        "SKBCh": 18,
+        "Source": "SKB",
+        "ServiceId": "242"
+    },
+    {
+        "SKB Name": "TV CHOSUN",
+        "SKBCh": 19,
+        "Source": "SKB",
+        "ServiceId": "243"
+    },
+    {
+        "SKB Name": "Tooniverse",
+        "SKBCh": 170,
+        "Source": "SKB",
+        "ServiceId": "376"
+    },
+    {
+        "SKB Name": "디즈니채널",
+        "SKBCh": 171,
+        "Source": "SKB",
+        "ServiceId": "380"
+    },
+    {
+        "SKB Name": "디즈니주니어",
+        "SKBCh": 172,
+        "Source": "SKB",
+        "ServiceId": "381"
+    },
+    {
+        "SKB Name": "Animax",
+        "SKBCh": 173,
+        "Source": "SKB",
+        "ServiceId": "371"
+    },
+    {
+        "SKB Name": "애니원",
+        "SKBCh": 174,
+        "Source": "SKB",
+        "ServiceId": "379"
+    },
+    {
+        "SKB Name": "부메랑",
+        "SKBCh": 175,
+        "Source": "SKB",
+        "ServiceId": "433"
+    },
+    {
+        "SKB Name": "Nickelodeon",
+        "SKBCh": 176,
+        "Source": "SKB",
+        "ServiceId": "383"
+    },
+    {
+        "SKB Name": "카툰네트워크",
+        "SKBCh": 177,
+        "Source": "SKB",
+        "ServiceId": "384"
+    },
+    {
+        "SKB Name": "애니플러스",
+        "SKBCh": 178,
+        "Source": "SKB",
+        "ServiceId": "377"
+    },
+    {
+        "SKB Name": "애니박스",
+        "SKBCh": 179,
+        "Source": "SKB",
+        "ServiceId": "191"
+    },
+    {
+        "SKB Name": "DreamWorks",
+        "SKBCh": 180,
+        "Source": "SKB",
+        "ServiceId": "790"
+    },
+    {
+        "SKB Name": "MiaoMi",
+        "SKBCh": 181,
+        "Source": "SKB",
+        "ServiceId": "391"
+    },
+    {
+        "SKB Name": "뽀요TV",
+        "SKBCh": 182,
+        "Source": "SKB",
+        "ServiceId": "387"
+    },
+    {
+        "SKB Name": "캐리TV",
+        "SKBCh": 183,
+        "Source": "SKB",
+        "ServiceId": "388"
+    },
+    {
+        "SKB Name": "english gem",
+        "SKBCh": 187,
+        "Source": "SKB",
+        "ServiceId": "390"
+    },
+    {
+        "SKB Name": "신기한나라TV",
+        "SKBCh": 188,
+        "Source": "SKB",
+        "ServiceId": "386"
+    },
+    {
+        "SKB Name": "키즈톡톡 플러스",
+        "SKBCh": 189,
+        "Source": "SKB",
+        "ServiceId": "385"
+    },
+    {
+        "SKB Name": "KBS KIDS",
+        "SKBCh": 190,
+        "Source": "SKB",
+        "ServiceId": "382"
+    },
+    {
+        "SKB Name": "어린이TV",
+        "SKBCh": 191,
+        "Source": "SKB",
+        "ServiceId": "374"
+    },
+    {
+        "SKB Name": "JEI 재능TV",
+        "SKBCh": 192,
+        "Source": "SKB",
+        "ServiceId": "378"
+    },
+    {
+        "SKB Name": "bravo kids",
+        "SKBCh": 193,
+        "Source": "SKB",
+        "ServiceId": "370"
+    },
+    {
+        "SKB Name": "EBS KIDS",
+        "SKBCh": 194,
+        "Source": "SKB",
+        "ServiceId": "372"
+    },
+    {
+        "SKB Name": "Baby TV",
+        "SKBCh": 195,
+        "Source": "SKB",
+        "ServiceId": "785"
+    },
+    {
+        "SKB Name": "대교베이비TV",
+        "SKBCh": 196,
+        "Source": "SKB",
+        "ServiceId": "373"
+    },
+    {
+        "SKB Name": "CATCH ON 1",
+        "SKBCh": 51,
+        "Source": "SKB",
+        "ServiceId": "181"
+    },
+    {
+        "SKB Name": "CATCH ON 2",
+        "SKBCh": 52,
+        "Source": "SKB",
+        "ServiceId": "182"
+    },
+    {
+        "SKB Name": "OCN Movies",
+        "SKBCh": 53,
+        "Source": "SKB",
+        "ServiceId": "187"
+    },
+    {
+        "SKB Name": "OCN",
+        "SKBCh": 54,
+        "Source": "SKB",
+        "ServiceId": "178"
+    },
+    {
+        "SKB Name": "OCN Thrills",
+        "SKBCh": 55,
+        "Source": "SKB",
+        "ServiceId": "179"
+    },
+    {
+        "SKB Name": "Screen",
+        "SKBCh": 56,
+        "Source": "SKB",
+        "ServiceId": "192"
+    },
+    {
+        "SKB Name": "Mplex",
+        "SKBCh": 57,
+        "Source": "SKB",
+        "ServiceId": "171"
+    },
+    {
+        "SKB Name": "Cinef",
+        "SKBCh": 58,
+        "Source": "SKB",
+        "ServiceId": "193"
+    },
+    {
+        "SKB Name": "The Movie",
+        "SKBCh": 59,
+        "Source": "SKB",
+        "ServiceId": "198"
+    },
+    {
+        "SKB Name": "AsiaM",
+        "SKBCh": 60,
+        "Source": "SKB",
+        "ServiceId": "174"
+    },
+    {
+        "SKB Name": "인디필름",
+        "SKBCh": 61,
+        "Source": "SKB",
+        "ServiceId": "441"
+    },
+    {
+        "SKB Name": "Celestial Movies",
+        "SKBCh": 62,
+        "Source": "SKB",
+        "ServiceId": "877"
+    },
+    {
+        "SKB Name": "World Classic Movie",
+        "SKBCh": 63,
+        "Source": "SKB",
+        "ServiceId": "202"
+    },
+    {
+        "SKB Name": "플레이보이TV",
+        "SKBCh": 320,
+        "Source": "SKB",
+        "ServiceId": "183"
+    },
+    {
+        "SKB Name": "미드나잇",
+        "SKBCh": 321,
+        "Source": "SKB",
+        "ServiceId": "184"
+    },
+    {
+        "SKB Name": "Viki",
+        "SKBCh": 322,
+        "Source": "SKB",
+        "ServiceId": "188"
+    },
+    {
+        "SKB Name": "허니TV",
+        "SKBCh": 323,
+        "Source": "SKB",
+        "ServiceId": "196"
+    },
+    {
+        "SKB Name": "핑크하우스",
+        "SKBCh": 324,
+        "Source": "SKB",
+        "ServiceId": "190"
+    },
+    {
+        "SKB Name": "디자이어TV",
+        "SKBCh": 325,
+        "Source": "SKB",
+        "ServiceId": "200"
+    },
+    {
+        "SKB Name": "비너스TV",
+        "SKBCh": 326,
+        "Source": "SKB",
+        "ServiceId": "201"
+    },
+    {
+        "SKB Name": "FOX",
+        "SKBCh": 101,
+        "Source": "SKB",
+        "ServiceId": "189"
+    },
+    {
+        "SKB Name": "AXN",
+        "SKBCh": 102,
+        "Source": "SKB",
+        "ServiceId": "195"
+    },
+    {
+        "SKB Name": "채널J",
+        "SKBCh": 103,
+        "Source": "SKB",
+        "ServiceId": "197"
+    },
+    {
+        "SKB Name": "중화TV",
+        "SKBCh": 104,
+        "Source": "SKB",
+        "ServiceId": "186"
+    },
+    {
+        "SKB Name": "채널 Ching",
+        "SKBCh": 105,
+        "Source": "SKB",
+        "ServiceId": "907"
+    },
+    {
+        "SKB Name": "Asia N",
+        "SKBCh": 106,
+        "Source": "SKB",
+        "ServiceId": "177"
+    },
+    {
+        "SKB Name": "CH U",
+        "SKBCh": 107,
+        "Source": "SKB",
+        "ServiceId": "176"
+    },
+    {
+        "SKB Name": "채널차이나",
+        "SKBCh": 108,
+        "Source": "SKB",
+        "ServiceId": "520"
+    },
+    {
+        "SKB Name": "텔레노벨라",
+        "SKBCh": 109,
+        "Source": "SKB",
+        "ServiceId": "173"
+    },
+    {
+        "SKB Name": "채널W",
+        "SKBCh": 110,
+        "Source": "SKB",
+        "ServiceId": "172"
+    },
+    {
+        "SKB Name": "ApleDrama",
+        "SKBCh": 111,
+        "Source": "SKB",
+        "ServiceId": "203"
+    },
+    {
+        "SKB Name": "WeLike",
+        "SKBCh": 112,
+        "Source": "SKB",
+        "ServiceId": "204"
+    },
+    {
+        "SKB Name": "SBS 플러스",
+        "SKBCh": 1,
+        "Source": "SKB",
+        "ServiceId": "901"
+    },
+    {
+        "SKB Name": "KBS 드라마",
+        "SKBCh": 30,
+        "Source": "SKB",
+        "ServiceId": "902"
+    },
+    {
+        "SKB Name": "MBC 드라마",
+        "SKBCh": 32,
+        "Source": "SKB",
+        "ServiceId": "900"
+    },
+    {
+        "SKB Name": "Olive",
+        "SKBCh": 34,
+        "Source": "SKB",
+        "ServiceId": "431"
+    },
+    {
+        "SKB Name": "드라마큐브",
+        "SKBCh": 36,
+        "Source": "SKB",
+        "ServiceId": "903"
+    },
+    {
+        "SKB Name": "드라맥스",
+        "SKBCh": 38,
+        "Source": "SKB",
+        "ServiceId": "904"
+    },
+    {
+        "SKB Name": "SKY",
+        "SKBCh": 40,
+        "Source": "SKB",
+        "ServiceId": "871"
+    },
+    {
+        "SKB Name": "MBC ON",
+        "SKBCh": 41,
+        "Source": "SKB",
+        "ServiceId": "531"
+    },
+    {
+        "SKB Name": "Highlight TV",
+        "SKBCh": 42,
+        "Source": "SKB",
+        "ServiceId": "885"
+    },
+    {
+        "SKB Name": "CNTV",
+        "SKBCh": 43,
+        "Source": "SKB",
+        "ServiceId": "175"
+    },
+    {
+        "SKB Name": "EDGE TV",
+        "SKBCh": 44,
+        "Source": "SKB",
+        "ServiceId": "128"
+    },
+    {
+        "SKB Name": "디원",
+        "SKBCh": 45,
+        "Source": "SKB",
+        "ServiceId": "170"
+    },
+    {
+        "SKB Name": "드라마H",
+        "SKBCh": 46,
+        "Source": "SKB",
+        "ServiceId": "875"
+    },
+    {
+        "SKB Name": "HQ+",
+        "SKBCh": 47,
+        "Source": "SKB",
+        "ServiceId": "908"
+    },
+    {
+        "SKB Name": "UXN",
+        "SKBCh": 70,
+        "Source": "SKB",
+        "ServiceId": "888"
+    },
+    {
+        "SKB Name": "UHD Dream TV",
+        "SKBCh": 71,
+        "Source": "SKB",
+        "ServiceId": "879"
+    },
+    {
+        "SKB Name": "Asia UHD",
+        "SKBCh": 72,
+        "Source": "SKB",
+        "ServiceId": "878"
+    },
+    {
+        "SKB Name": "UMAX",
+        "SKBCh": 73,
+        "Source": "SKB",
+        "ServiceId": "69"
+    },
+    {
+        "SKB Name": "DOG TV",
+        "SKBCh": 79,
+        "Source": "SKB",
+        "ServiceId": "255"
+    },
+    {
+        "SKB Name": "JTBC4",
+        "SKBCh": 82,
+        "Source": "SKB",
+        "ServiceId": "259"
+    },
+    {
+        "SKB Name": "On style",
+        "SKBCh": 210,
+        "Source": "SKB",
+        "ServiceId": "426"
+    },
+    {
+        "SKB Name": "Fashion N",
+        "SKBCh": 211,
+        "Source": "SKB",
+        "ServiceId": "274"
+    },
+    {
+        "SKB Name": "채널 뷰",
+        "SKBCh": 212,
+        "Source": "SKB",
+        "ServiceId": "276"
+    },
+    {
+        "SKB Name": "KBS W",
+        "SKBCh": 214,
+        "Source": "SKB",
+        "ServiceId": "425"
+    },
+    {
+        "SKB Name": "Life U",
+        "SKBCh": 215,
+        "Source": "SKB",
+        "ServiceId": "277"
+    },
+    {
+        "SKB Name": "Fox life",
+        "SKBCh": 216,
+        "Source": "SKB",
+        "ServiceId": "280"
+    },
+    {
+        "SKB Name": "Gtv",
+        "SKBCh": 217,
+        "Source": "SKB",
+        "ServiceId": "284"
+    },
+    {
+        "SKB Name": "동아TV",
+        "SKBCh": 218,
+        "Source": "SKB",
+        "ServiceId": "272"
+    },
+    {
+        "SKB Name": "OBSW",
+        "SKBCh": 219,
+        "Source": "SKB",
+        "ServiceId": "423"
+    },
+    {
+        "SKB Name": "9colors",
+        "SKBCh": 220,
+        "Source": "SKB",
+        "ServiceId": "285"
+    },
+    {
+        "SKB Name": "NHK WORLD JAPAN",
+        "SKBCh": 221,
+        "Source": "SKB",
+        "ServiceId": "783"
+    },
+    {
+        "SKB Name": "TRENDY",
+        "SKBCh": 223,
+        "Source": "SKB",
+        "ServiceId": "288"
+    },
+    {
+        "SKB Name": "CookTV",
+        "SKBCh": 224,
+        "Source": "SKB",
+        "ServiceId": "289"
+    },
+    {
+        "SKB Name": "Now제주TV",
+        "SKBCh": 225,
+        "Source": "SKB",
+        "ServiceId": "290"
+    },
+    {
+        "SKB Name": "육아방송",
+        "SKBCh": 226,
+        "Source": "SKB",
+        "ServiceId": "287"
+    },
+    {
+        "SKB Name": "실버아이TV",
+        "SKBCh": 227,
+        "Source": "SKB",
+        "ServiceId": "286"
+    },
+    {
+        "SKB Name": "시니어TV",
+        "SKBCh": 228,
+        "Source": "SKB",
+        "ServiceId": "291"
+    },
+    {
+        "SKB Name": "KBS N Life",
+        "SKBCh": 229,
+        "Source": "SKB",
+        "ServiceId": "292"
+    },
+    {
+        "SKB Name": "M.net",
+        "SKBCh": 27,
+        "Source": "SKB",
+        "ServiceId": "873"
+    },
+    {
+        "SKB Name": "SBS MTV",
+        "SKBCh": 230,
+        "Source": "SKB",
+        "ServiceId": "883"
+    },
+    {
+        "SKB Name": "MBC M",
+        "SKBCh": 231,
+        "Source": "SKB",
+        "ServiceId": "250"
+    },
+    {
+        "SKB Name": "GMTV",
+        "SKBCh": 232,
+        "Source": "SKB",
+        "ServiceId": "671"
+    },
+    {
+        "SKB Name": "아이넷 TV",
+        "SKBCh": 233,
+        "Source": "SKB",
+        "ServiceId": "261"
+    },
+    {
+        "SKB Name": "Arte TV",
+        "SKBCh": 234,
+        "Source": "SKB",
+        "ServiceId": "421"
+    },
+    {
+        "SKB Name": "STINGRAY CLASSICA",
+        "SKBCh": 235,
+        "Source": "SKB",
+        "ServiceId": "787"
+    },
+    {
+        "SKB Name": "Mezzo Live",
+        "SKBCh": 236,
+        "Source": "SKB",
+        "ServiceId": "895"
+    },
+    {
+        "SKB Name": "Stingray CMusic",
+        "SKBCh": 237,
+        "Source": "SKB",
+        "ServiceId": "672"
+    },
+    {
+        "SKB Name": "이벤트TV",
+        "SKBCh": 238,
+        "Source": "SKB",
+        "ServiceId": "262"
+    },
+    {
+        "SKB Name": "BET",
+        "SKBCh": 239,
+        "Source": "SKB",
+        "ServiceId": "788"
+    },
+    {
+        "SKB Name": "바둑TV",
+        "SKBCh": 240,
+        "Source": "SKB",
+        "ServiceId": "528"
+    },
+    {
+        "SKB Name": "K 바둑",
+        "SKBCh": 241,
+        "Source": "SKB",
+        "ServiceId": "253"
+    },
+    {
+        "SKB Name": "브레인TV",
+        "SKBCh": 242,
+        "Source": "SKB",
+        "ServiceId": "279"
+    },
+    {
+        "SKB Name": "FTV",
+        "SKBCh": 243,
+        "Source": "SKB",
+        "ServiceId": "530"
+    },
+    {
+        "SKB Name": "FISHING TV",
+        "SKBCh": 244,
+        "Source": "SKB",
+        "ServiceId": "273"
+    },
+    {
+        "SKB Name": "ONT",
+        "SKBCh": 245,
+        "Source": "SKB",
+        "ServiceId": "256"
+    },
+    {
+        "SKB Name": "sky Travel",
+        "SKBCh": 246,
+        "Source": "SKB",
+        "ServiceId": "283"
+    },
+    {
+        "SKB Name": "Mountain TV",
+        "SKBCh": 247,
+        "Source": "SKB",
+        "ServiceId": "251"
+    },
+    {
+        "SKB Name": "HobbyLife",
+        "SKBCh": 248,
+        "Source": "SKB",
+        "ServiceId": "266"
+    },
+    {
+        "SKB Name": "폴라리스TV",
+        "SKBCh": 249,
+        "Source": "SKB",
+        "ServiceId": "252"
+    },
+    {
+        "SKB Name": "chEM",
+        "SKBCh": 250,
+        "Source": "SKB",
+        "ServiceId": "267"
+    },
+    {
+        "SKB Name": "리빙TV",
+        "SKBCh": 251,
+        "Source": "SKB",
+        "ServiceId": "263"
+    },
+    {
+        "SKB Name": "MyZen TV",
+        "SKBCh": 252,
+        "Source": "SKB",
+        "ServiceId": "268"
+    },
+    {
+        "SKB Name": "TV5Monde Style",
+        "SKBCh": 253,
+        "Source": "SKB",
+        "ServiceId": "293"
+    },
+    {
+        "SKB Name": "아이넷라이프",
+        "SKBCh": 254,
+        "Source": "SKB",
+        "ServiceId": "269"
+    },
+    {
+        "SKB Name": "붐TV",
+        "SKBCh": 255,
+        "Source": "SKB",
+        "ServiceId": "249"
+    },
+    {
+        "SKB Name": "ETN연예TV",
+        "SKBCh": 256,
+        "Source": "SKB",
+        "ServiceId": "897"
+    },
+    {
+        "SKB Name": "SPOTV ON",
+        "SKBCh": 118,
+        "Source": "SKB",
+        "ServiceId": "136"
+    },
+    {
+        "SKB Name": "SPOTV ON 2",
+        "SKBCh": 119,
+        "Source": "SKB",
+        "ServiceId": "137"
+    },
+    {
+        "SKB Name": "SPOTV",
+        "SKBCh": 120,
+        "Source": "SKB",
+        "ServiceId": "125"
+    },
+    {
+        "SKB Name": "KBSN 스포츠",
+        "SKBCh": 121,
+        "Source": "SKB",
+        "ServiceId": "132"
+    },
+    {
+        "SKB Name": "SBS Sports",
+        "SKBCh": 122,
+        "Source": "SKB",
+        "ServiceId": "130"
+    },
+    {
+        "SKB Name": "MBC Sports+",
+        "SKBCh": 123,
+        "Source": "SKB",
+        "ServiceId": "131"
+    },
+    {
+        "SKB Name": "sky Sports",
+        "SKBCh": 125,
+        "Source": "SKB",
+        "ServiceId": "282"
+    },
+    {
+        "SKB Name": "JTBC Golf&amp;Sports",
+        "SKBCh": 126,
+        "Source": "SKB",
+        "ServiceId": "436"
+    },
+    {
+        "SKB Name": "SPOTV Golf&amp;Health",
+        "SKBCh": 127,
+        "Source": "SKB",
+        "ServiceId": "134"
+    },
+    {
+        "SKB Name": "SPOTV2",
+        "SKBCh": 128,
+        "Source": "SKB",
+        "ServiceId": "424"
+    },
+    {
+        "SKB Name": "IB Sports",
+        "SKBCh": 129,
+        "Source": "SKB",
+        "ServiceId": "123"
+    },
+    {
+        "SKB Name": "Billiards TV",
+        "SKBCh": 130,
+        "Source": "SKB",
+        "ServiceId": "122"
+    },
+    {
+        "SKB Name": "SBS GOLF",
+        "SKBCh": 131,
+        "Source": "SKB",
+        "ServiceId": "133"
+    },
+    {
+        "SKB Name": "JTBC GOLF",
+        "SKBCh": 132,
+        "Source": "SKB",
+        "ServiceId": "127"
+    },
+    {
+        "SKB Name": "Golf Channel Korea",
+        "SKBCh": 133,
+        "Source": "SKB",
+        "ServiceId": "135"
+    },
+    {
+        "SKB Name": "스크린골프존",
+        "SKBCh": 134,
+        "Source": "SKB",
+        "ServiceId": "138"
+    },
+    {
+        "SKB Name": "OGN",
+        "SKBCh": 135,
+        "Source": "SKB",
+        "ServiceId": "124"
+    },
+    {
+        "SKB Name": "SBS-Afreeca TV",
+        "SKBCh": 136,
+        "Source": "SKB",
+        "ServiceId": "265"
+    },
+    {
+        "SKB Name": "STATV",
+        "SKBCh": 137,
+        "Source": "SKB",
+        "ServiceId": "254"
+    },
+    {
+        "SKB Name": "Eurosport",
+        "SKBCh": 138,
+        "Source": "SKB",
+        "ServiceId": "120"
+    },
+    {
+        "SKB Name": "Star Sports",
+        "SKBCh": 139,
+        "Source": "SKB",
+        "ServiceId": "781"
+    },
+    {
+        "SKB Name": "인도어스포츠",
+        "SKBCh": 140,
+        "Source": "SKB",
+        "ServiceId": "129"
+    },
+    {
+        "SKB Name": "생활체육TV",
+        "SKBCh": 141,
+        "Source": "SKB",
+        "ServiceId": "264"
+    },
+    {
+        "SKB Name": "JEI 재능 English",
+        "SKBCh": 200,
+        "Source": "SKB",
+        "ServiceId": "825"
+    },
+    {
+        "SKB Name": "플레이런TV",
+        "SKBCh": 201,
+        "Source": "SKB",
+        "ServiceId": "824"
+    },
+    {
+        "SKB Name": "EBS English",
+        "SKBCh": 202,
+        "Source": "SKB",
+        "ServiceId": "822"
+    },
+    {
+        "SKB Name": "EBS +1",
+        "SKBCh": 203,
+        "Source": "SKB",
+        "ServiceId": "820"
+    },
+    {
+        "SKB Name": "EBS +2",
+        "SKBCh": 204,
+        "Source": "SKB",
+        "ServiceId": "821"
+    },
+    {
+        "SKB Name": "edu TV",
+        "SKBCh": 205,
+        "Source": "SKB",
+        "ServiceId": "823"
+    },
+    {
+        "SKB Name": "공영쇼핑",
+        "SKBCh": 2,
+        "Source": "SKB",
+        "ServiceId": "332"
+    },
+    {
+        "SKB Name": "홈&amp;쇼핑",
+        "SKBCh": 4,
+        "Source": "SKB",
+        "ServiceId": "327"
+    },
+    {
+        "SKB Name": "CJ오쇼핑",
+        "SKBCh": 6,
+        "Source": "SKB",
+        "ServiceId": "324"
+    },
+    {
+        "SKB Name": "현대홈쇼핑",
+        "SKBCh": 8,
+        "Source": "SKB",
+        "ServiceId": "321"
+    },
+    {
+        "SKB Name": "롯데홈쇼핑",
+        "SKBCh": 10,
+        "Source": "SKB",
+        "ServiceId": "323"
+    },
+    {
+        "SKB Name": "GS SHOP",
+        "SKBCh": 12,
+        "Source": "SKB",
+        "ServiceId": "320"
+    },
+    {
+        "SKB Name": "NS홈쇼핑",
+        "SKBCh": 14,
+        "Source": "SKB",
+        "ServiceId": "322"
+    },
+    {
+        "SKB Name": "SK stoa",
+        "SKBCh": 17,
+        "Source": "SKB",
+        "ServiceId": "345"
+    },
+    {
+        "SKB Name": "K쇼핑",
+        "SKBCh": 21,
+        "Source": "SKB",
+        "ServiceId": "333"
+    },
+    {
+        "SKB Name": "신세계쇼핑",
+        "SKBCh": 22,
+        "Source": "SKB",
+        "ServiceId": "339"
+    },
+    {
+        "SKB Name": "쇼핑엔티",
+        "SKBCh": 25,
+        "Source": "SKB",
+        "ServiceId": "336"
+    },
+    {
+        "SKB Name": "GS MY SHOP",
+        "SKBCh": 29,
+        "Source": "SKB",
+        "ServiceId": "343"
+    },
+    {
+        "SKB Name": "롯데OneTV",
+        "SKBCh": 31,
+        "Source": "SKB",
+        "ServiceId": "344"
+    },
+    {
+        "SKB Name": "CJ오쇼핑 플러스",
+        "SKBCh": 33,
+        "Source": "SKB",
+        "ServiceId": "340"
+    },
+    {
+        "SKB Name": "W쇼핑",
+        "SKBCh": 35,
+        "Source": "SKB",
+        "ServiceId": "342"
+    },
+    {
+        "SKB Name": "NS Shop+",
+        "SKBCh": 37,
+        "Source": "SKB",
+        "ServiceId": "341"
+    },
+    {
+        "SKB Name": "현대홈쇼핑+Shop",
+        "SKBCh": 39,
+        "Source": "SKB",
+        "ServiceId": "337"
+    },
+    {
+        "SKB Name": "KTV",
+        "SKBCh": 290,
+        "Source": "SKB",
+        "ServiceId": "222"
+    },
+    {
+        "SKB Name": "국회방송",
+        "SKBCh": 291,
+        "Source": "SKB",
+        "ServiceId": "221"
+    },
+    {
+        "SKB Name": "OUN",
+        "SKBCh": 292,
+        "Source": "SKB",
+        "ServiceId": "220"
+    },
+    {
+        "SKB Name": "복지TV",
+        "SKBCh": 293,
+        "Source": "SKB",
+        "ServiceId": "223"
+    },
+    {
+        "SKB Name": "tvN",
+        "SKBCh": 3,
+        "Source": "SKB",
+        "ServiceId": "872"
+    },
+    {
+        "SKB Name": "MBC Every1",
+        "SKBCh": 28,
+        "Source": "SKB",
+        "ServiceId": "881"
+    },
+    {
+        "SKB Name": "JTBC2",
+        "SKBCh": 48,
+        "Source": "SKB",
+        "ServiceId": "874"
+    },
+    {
+        "SKB Name": "E채널",
+        "SKBCh": 49,
+        "Source": "SKB",
+        "ServiceId": "886"
+    },
+    {
+        "SKB Name": "INSIGHT TV",
+        "SKBCh": 74,
+        "Source": "SKB",
+        "ServiceId": "890"
+    },
+    {
+        "SKB Name": "SBS F!L UHD",
+        "SKBCh": 75,
+        "Source": "SKB",
+        "ServiceId": "909"
+    },
+    {
+        "SKB Name": "KBS joy",
+        "SKBCh": 80,
+        "Source": "SKB",
+        "ServiceId": "880"
+    },
+    {
+        "SKB Name": "SBS fun E",
+        "SKBCh": 81,
+        "Source": "SKB",
+        "ServiceId": "882"
+    },
+    {
+        "SKB Name": "SBS F!L",
+        "SKBCh": 83,
+        "Source": "SKB",
+        "ServiceId": "896"
+    },
+    {
+        "SKB Name": "OtvN",
+        "SKBCh": 84,
+        "Source": "SKB",
+        "ServiceId": "527"
+    },
+    {
+        "SKB Name": "XtvN",
+        "SKBCh": 85,
+        "Source": "SKB",
+        "ServiceId": "185"
+    },
+    {
+        "SKB Name": "TVCHOSUN2",
+        "SKBCh": 86,
+        "Source": "SKB",
+        "ServiceId": "631"
+    },
+    {
+        "SKB Name": "코미디TV",
+        "SKBCh": 87,
+        "Source": "SKB",
+        "ServiceId": "906"
+    },
+    {
+        "SKB Name": "K star",
+        "SKBCh": 88,
+        "Source": "SKB",
+        "ServiceId": "884"
+    },
+    {
+        "SKB Name": "라이프타임",
+        "SKBCh": 89,
+        "Source": "SKB",
+        "ServiceId": "271"
+    },
+    {
+        "SKB Name": "FX",
+        "SKBCh": 90,
+        "Source": "SKB",
+        "ServiceId": "194"
+    },
+    {
+        "SKB Name": "FUN TV",
+        "SKBCh": 91,
+        "Source": "SKB",
+        "ServiceId": "887"
+    },
+    {
+        "SKB Name": "AcTV",
+        "SKBCh": 92,
+        "Source": "SKB",
+        "ServiceId": "258"
+    },
+    {
+        "SKB Name": "CMCTV",
+        "SKBCh": 93,
+        "Source": "SKB",
+        "ServiceId": "876"
+    },
+    {
+        "SKB Name": "ONCE",
+        "SKBCh": 94,
+        "Source": "SKB",
+        "ServiceId": "889"
+    },
+    {
+        "SKB Name": "CH.DIA",
+        "SKBCh": 96,
+        "Source": "SKB",
+        "ServiceId": "180"
+    },
+    {
+        "SKB Name": "채널A플러스",
+        "SKBCh": 97,
+        "Source": "SKB",
+        "ServiceId": "891"
+    },
+    {
+        "SKB Name": "MBN플러스",
+        "SKBCh": 98,
+        "Source": "SKB",
+        "ServiceId": "892"
+    },
+    {
+        "SKB Name": "NQQ",
+        "SKBCh": 99,
+        "Source": "SKB",
+        "ServiceId": "893"
+    },
+    {
+        "SKB Name": "Smile TV Plus",
+        "SKBCh": 100,
+        "Source": "SKB",
+        "ServiceId": "894"
+    },
+    {
+        "SKB Name": "CUBE TV",
+        "SKBCh": 213,
+        "Source": "SKB",
+        "ServiceId": "905"
+    },
+    {
+        "SKB Name": "CBS",
+        "SKBCh": 300,
+        "Source": "SKB",
+        "ServiceId": "727"
+    },
+    {
+        "SKB Name": "CTS",
+        "SKBCh": 301,
+        "Source": "SKB",
+        "ServiceId": "725"
+    },
+    {
+        "SKB Name": "CGNTV",
+        "SKBCh": 302,
+        "Source": "SKB",
+        "ServiceId": "723"
+    },
+    {
+        "SKB Name": "Good TV",
+        "SKBCh": 303,
+        "Source": "SKB",
+        "ServiceId": "720"
+    },
+    {
+        "SKB Name": "C채널",
+        "SKBCh": 304,
+        "Source": "SKB",
+        "ServiceId": "721"
+    },
+    {
+        "SKB Name": "BTN 불교TV",
+        "SKBCh": 305,
+        "Source": "SKB",
+        "ServiceId": "726"
+    },
+    {
+        "SKB Name": "BBS 불교방송",
+        "SKBCh": 306,
+        "Source": "SKB",
+        "ServiceId": "722"
+    },
+    {
+        "SKB Name": "가톨릭평화방송",
+        "SKBCh": 307,
+        "Source": "SKB",
+        "ServiceId": "724"
+    },
+    {
+        "SKB Name": "STB 상생방송",
+        "SKBCh": 308,
+        "Source": "SKB",
+        "ServiceId": "278"
+    },
+    {
+        "SKB Name": "원음방송",
+        "SKBCh": 309,
+        "Source": "SKB",
+        "ServiceId": "270"
+    },
+    {
+        "SKB Name": "내셔널지오그래픽",
+        "SKBCh": 260,
+        "Source": "SKB",
+        "ServiceId": "430"
+    },
+    {
+        "SKB Name": "Discovery Channel",
+        "SKBCh": 261,
+        "Source": "SKB",
+        "ServiceId": "437"
+    },
+    {
+        "SKB Name": "YTN 사이언스",
+        "SKBCh": 262,
+        "Source": "SKB",
+        "ServiceId": "422"
+    },
+    {
+        "SKB Name": "Natgeo People",
+        "SKBCh": 263,
+        "Source": "SKB",
+        "ServiceId": "784"
+    },
+    {
+        "SKB Name": "History",
+        "SKBCh": 264,
+        "Source": "SKB",
+        "ServiceId": "260"
+    },
+    {
+        "SKB Name": "BBC earth",
+        "SKBCh": 265,
+        "Source": "SKB",
+        "ServiceId": "472"
+    },
+    {
+        "SKB Name": "Natgeo Wild HD",
+        "SKBCh": 266,
+        "Source": "SKB",
+        "ServiceId": "773"
+    },
+    {
+        "SKB Name": "리얼TV",
+        "SKBCh": 267,
+        "Source": "SKB",
+        "ServiceId": "440"
+    },
+    {
+        "SKB Name": "헬스메디TV",
+        "SKBCh": 268,
+        "Source": "SKB",
+        "ServiceId": "432"
+    },
+    {
+        "SKB Name": "쿠키건강TV",
+        "SKBCh": 269,
+        "Source": "SKB",
+        "ServiceId": "434"
+    },
+    {
+        "SKB Name": "아리랑TV",
+        "SKBCh": 270,
+        "Source": "SKB",
+        "ServiceId": "427"
+    },
+    {
+        "SKB Name": "소상공인방송",
+        "SKBCh": 271,
+        "Source": "SKB",
+        "ServiceId": "428"
+    },
+    {
+        "SKB Name": "한국직업방송",
+        "SKBCh": 273,
+        "Source": "SKB",
+        "ServiceId": "429"
+    },
+    {
+        "SKB Name": "MBC NET",
+        "SKBCh": 274,
+        "Source": "SKB",
+        "ServiceId": "281"
+    },
+    {
+        "SKB Name": "소비자TV",
+        "SKBCh": 275,
+        "Source": "SKB",
+        "ServiceId": "442"
+    },
+    {
+        "SKB Name": "NBS 한국농업방송",
+        "SKBCh": 276,
+        "Source": "SKB",
+        "ServiceId": "443"
+    },
+    {
+        "SKB Name": "CCTV4",
+        "SKBCh": 277,
+        "Source": "SKB",
+        "ServiceId": "779"
+    },
+    {
+        "SKB Name": "NHK World Premium",
+        "SKBCh": 278,
+        "Source": "SKB",
+        "ServiceId": "772"
+    },
+    {
+        "SKB Name": "TV5Monde",
+        "SKBCh": 279,
+        "Source": "SKB",
+        "ServiceId": "780"
+    },
+    {
+        "SKB Name": "법률방송",
+        "SKBCh": 280,
+        "Source": "SKB",
+        "ServiceId": "438"
+    },
+    {
+        "SKB Name": "채널i",
+        "SKBCh": 281,
+        "Source": "SKB",
+        "ServiceId": "439"
+    },
+    {
+        "SKB Name": "국방TV",
+        "SKBCh": 282,
+        "Source": "SKB",
+        "ServiceId": "445"
+    },
+    {
+        "SKB Name": "다큐원",
+        "SKBCh": 283,
+        "Source": "SKB",
+        "ServiceId": "257"
+    },
+    {
+        "SKB Name": "브릿지TV",
+        "SKBCh": 284,
+        "Source": "SKB",
+        "ServiceId": "446"
+    },
+    {
+        "SKB Name": "지방자치TV",
+        "SKBCh": 285,
+        "Source": "SKB",
+        "ServiceId": "447"
+    },
+    {
+        "SKB Name": "다문화TV",
+        "SKBCh": 286,
+        "Source": "SKB",
+        "ServiceId": "448"
+    },
+    {
+        "SKB Name": "SBS CNBC",
+        "SKBCh": 26,
+        "Source": "SKB",
+        "ServiceId": "625"
+    },
+    {
+        "SKB Name": "토마토TV",
+        "SKBCh": 150,
+        "Source": "SKB",
+        "ServiceId": "620"
+    },
+    {
+        "SKB Name": "한국경제TV",
+        "SKBCh": 151,
+        "Source": "SKB",
+        "ServiceId": "626"
+    },
+    {
+        "SKB Name": "MTN",
+        "SKBCh": 152,
+        "Source": "SKB",
+        "ServiceId": "627"
+    },
+    {
+        "SKB Name": "매일경제TV",
+        "SKBCh": 153,
+        "Source": "SKB",
+        "ServiceId": "628"
+    },
+    {
+        "SKB Name": "팍스경제TV",
+        "SKBCh": 154,
+        "Source": "SKB",
+        "ServiceId": "622"
+    },
+    {
+        "SKB Name": "이데일리TV",
+        "SKBCh": 155,
+        "Source": "SKB",
+        "ServiceId": "630"
+    },
+    {
+        "SKB Name": "서울경제TV",
+        "SKBCh": 156,
+        "Source": "SKB",
+        "ServiceId": "629"
+    },
+    {
+        "SKB Name": "YTN 라이프",
+        "SKBCh": 157,
+        "Source": "SKB",
+        "ServiceId": "632"
+    },
+    {
+        "SKB Name": "CNN International",
+        "SKBCh": 158,
+        "Source": "SKB",
+        "ServiceId": "774"
+    },
+    {
+        "SKB Name": "CNN US",
+        "SKBCh": 159,
+        "Source": "SKB",
+        "ServiceId": "782"
+    },
+    {
+        "SKB Name": "BBC World News",
+        "SKBCh": 160,
+        "Source": "SKB",
+        "ServiceId": "778"
+    },
+    {
+        "SKB Name": "CGTN",
+        "SKBCh": 161,
+        "Source": "SKB",
+        "ServiceId": "771"
+    },
+    {
+        "SKB Name": "Bloomberg TV",
+        "SKBCh": 162,
+        "Source": "SKB",
+        "ServiceId": "775"
+    },
+    {
+        "SKB Name": "Channel News Asia",
+        "SKBCh": 163,
+        "Source": "SKB",
+        "ServiceId": "777"
+    },
+    {
+        "SKB Name": "내외경제TV",
+        "SKBCh": 164,
+        "Source": "SKB",
+        "ServiceId": "623"
+    },
+    {
+        "SKB Name": "부동산토마토",
+        "SKBCh": 165,
+        "Source": "SKB",
+        "ServiceId": "621"
+    },
+    {
+        "SKB Name": "FOX News Channel",
+        "SKBCh": 166,
+        "Source": "SKB",
+        "ServiceId": "791"
+    },
+    {
+        "SKB Name": "tbsTV",
+        "SKBCh": 167,
+        "Source": "SKB",
+        "ServiceId": "420"
+    },
+    {
+        "SKB Name": "연합뉴스TV",
+        "SKBCh": 23,
+        "Source": "SKB",
+        "ServiceId": "571"
+    },
+    {
+        "SKB Name": "YTN",
+        "SKBCh": 24,
+        "Source": "SKB",
+        "ServiceId": "570"
+    }
+]
